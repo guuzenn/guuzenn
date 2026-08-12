@@ -39,19 +39,6 @@
 
 <br>
 
-<h3 align="center">// github activity</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guuzenn&theme=catppuccin_mocha" alt="Reyv's GitHub profile details">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guuzenn&theme=catppuccin_mocha" alt="Reyv's repositories per language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guuzenn&theme=catppuccin_mocha" alt="Reyv's most committed languages">
-</p>
-
-<br>
-
 <p align="center">
   <sub>☕ probably coding somewhere · 🐇</sub>
 </p>
