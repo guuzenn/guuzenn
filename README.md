@@ -1,80 +1,97 @@
-<div align="center">
+<h1 align="left">Hey there, I'm Reyv! 👋</h1>
 
-# refy.
+###
 
-`software engineer` · `web enthusiast` · `🐇`
+<img align="right" height="170" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
 
-<br>
+<p align="left">
+  Software Engineering student at IPB University.<br>
+  Mostly building things for the web and occasionally breaking them.<br><br>
+  <i>powered by coffee, music, and questionable sleep schedules ☕🎧</i>
+</p>
 
-<img src="https://img.shields.io/badge/guuzenn-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7" />
+###
 
-<br><br>
-
-<pre>
-╭─ refy@guuzenn ~
-╰─❯ whoami
-   software engineer from indonesia
-   currently building things for the web.
-</pre>
-
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=guuzenn&label=visitors&color=cba6f7&style=flat-square" />
 </div>
 
-<br>
+<br clear="both">
 
-### ୨୧ about
+### ୨୧ about me
 
 ```ts
-const refy = {
-  name: "Refy Rizaldi",
+const reyv = {
   username: "guuzenn",
+  education: "Software Engineering @ IPB University",
   location: "Indonesia",
 
   interests: [
     "software engineering",
     "web development",
     "clean interfaces",
+    "trying new things",
   ],
 
-  currently: "building, learning, and occasionally breaking things.",
+  currently: "learning, building, and surviving.",
 };
-````
+```
 
-### ୨୧ stack
+### ୨୧ tech stack
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=f9e2af" />
-  <img src="https://img.shields.io/badge/React-1e1e2e?style=flat-square&logo=react&logoColor=89dceb" />
-  <img src="https://img.shields.io/badge/Node.js-1e1e2e?style=flat-square&logo=nodedotjs&logoColor=a6e3a1" />
-  <img src="https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=f38ba8" />
-</p>
+<div align="left">
+
+<img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa" height="24" />
+<img width="4" />
+
+<img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af" height="24" />
+<img width="4" />
+
+<img src="https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=89dceb" height="24" />
+<img width="4" />
+
+<img src="https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=nodedotjs&logoColor=a6e3a1" height="24" />
+<img width="4" />
+
+<img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=f38ba8" height="24" />
+<img width="4" />
+
+<img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" height="24" />
+
+</div>
 
 ### ୨୧ stats
 
-<div align="center">
+<div align="left">
 
 <img
 src="https://github-readme-stats.vercel.app/api?username=guuzenn&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&ring_color=cba6f7"
-height="155"
+height="150"
 />
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuzenn&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4"
-height="155"
+height="150"
 />
 
 </div>
 
-<br>
+### ୨୧ currently
+
+```text
+╭─ reyv@guuzenn ~
+╰─❯ status
+
+  studying    Software Engineering @ IPB University
+  building    things for the web
+  listening   probably something on repeat
+  mood        sleepy but productive
+```
+
+###
 
 <div align="center">
-
-<sub>
-  <code>#cba6f7</code> · fueled by coffee and questionable commits · <code>#89b4fa</code>
-</sub>
-
-<br><br>
-
-🐇
-
+  <sub>
+    ☕ catppuccin mocha enjoyer · 🐇 probably coding somewhere
+  </sub>
 </div>
