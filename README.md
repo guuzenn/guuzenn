@@ -1,5 +1,15 @@
+<h1 align="center">hi, i'm reyv 👋</h1>
+
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Reyv GitHub Banner" />
+  <code>software engineering student @ ipb university</code>
+</p>
+
+<p align="center">
+  building things for the web · occasionally breaking them
+</p>
+
+<p align="center">
+  <i>coffee · music · questionable sleep schedule</i>
 </p>
 
 <br>
@@ -7,9 +17,8 @@
 <h3 align="center">// about me</h3>
 
 <p align="center">
-  Software Engineering student at IPB University.<br>
-  Building things for the web and occasionally breaking them.<br>
-  <i>coffee · music · questionable sleep schedule</i>
+  currently exploring full-stack development and whatever seems interesting.<br>
+  mostly working with web stuff, APIs, databases, and UI that looks nice.
 </p>
 
 <br>
