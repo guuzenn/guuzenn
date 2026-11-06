@@ -18,8 +18,7 @@
 
 <p align="center">
   currently exploring full-stack development and whatever seems interesting.<br>
-  mostly working with web stuff, APIs, databases, and UI that looks nice.<br>
-  also setting up AI agents and connecting tools through MCP.
+  mostly working with web stuff, APIs, databases, and UI that looks nice.
 </p>
 
 <br>
@@ -58,20 +57,6 @@
   <img src="https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&amp;logo=docker&amp;logoColor=89b4fa" height="25" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-1e1e2e?style=for-the-badge&amp;logo=githubactions&amp;logoColor=cdd6f4" height="25" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Vite-1e1e2e?style=for-the-badge&logo=vite&logoColor=cba6f7" height="25" alt="Vite" />
-</p>
-
-<br>
-
-<h3 align="center">// agentic AI &amp; workflows</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hermes_Agent-1e1e2e?style=for-the-badge&amp;logoColor=cba6f7" height="25" alt="Hermes Agent" />
-  <img src="https://img.shields.io/badge/MCP-1e1e2e?style=for-the-badge&amp;logoColor=89dceb" height="25" alt="MCP" />
-</p>
-
-<p align="center">
-  setting up Hermes Agent, configuring MCP connections,<br>
-  and exploring agent-assisted development workflows.
 </p>
 
 <br>
