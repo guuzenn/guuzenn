@@ -25,29 +25,54 @@
 
 <h3 align="center">// stack</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa" height="25">
-  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af" height="25">
-  <img src="https://img.shields.io/badge/PHP-1e1e2e?style=for-the-badge&logo=php&logoColor=89b4fa" height="25">
-  <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af" height="25">
-  <img src="https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=f38ba8" height="25">
-  <img src="https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css&logoColor=89b4fa" height="25">
-</p>
+<p align="center"><sub>languages &amp; foundations</sub></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=89dceb" height="25">
-  <img src="https://img.shields.io/badge/Next.js-1e1e2e?style=for-the-badge&logo=nextdotjs&logoColor=cdd6f4" height="25">
-  <img src="https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=nodedotjs&logoColor=a6e3a1" height="25">
-  <img src="https://img.shields.io/badge/NestJS-1e1e2e?style=for-the-badge&logo=nestjs&logoColor=f38ba8" height="25">
-  <img src="https://img.shields.io/badge/Laravel-1e1e2e?style=for-the-badge&logo=laravel&logoColor=f38ba8" height="25">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1e1e2e?style=for-the-badge&logo=tailwindcss&logoColor=89dceb" height="25">
-  <img src="https://img.shields.io/badge/Prisma-1e1e2e?style=for-the-badge&logo=prisma&logoColor=cdd6f4" height="25">
-  <img src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=89b4fa" height="25">
-  <img src="https://img.shields.io/badge/Vite-1e1e2e?style=for-the-badge&logo=vite&logoColor=cba6f7" height="25">
+  <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa" height="25" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af" height="25" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-1e1e2e?style=for-the-badge&logo=php&logoColor=89b4fa" height="25" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af" height="25" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=f38ba8" height="25" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css&logoColor=89b4fa" height="25" alt="CSS3" />
+</p>
+
+<p align="center"><sub>frameworks &amp; tools</sub></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=89dceb" height="25" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-1e1e2e?style=for-the-badge&logo=nextdotjs&logoColor=cdd6f4" height="25" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=nodedotjs&logoColor=a6e3a1" height="25" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-1e1e2e?style=for-the-badge&logo=nestjs&logoColor=f38ba8" height="25" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Laravel-1e1e2e?style=for-the-badge&logo=laravel&logoColor=f38ba8" height="25" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1e1e2e?style=for-the-badge&logo=tailwindcss&logoColor=89dceb" height="25" alt="Tailwind CSS" />
+</p>
+
+<p align="center"><sub>data &amp; tooling</sub></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prisma-1e1e2e?style=for-the-badge&logo=prisma&logoColor=cdd6f4" height="25" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=89b4fa" height="25" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Vite-1e1e2e?style=for-the-badge&logo=vite&logoColor=cba6f7" height="25" alt="Vite" />
 </p>
 
 <br>
 
+<h3 align="center">// on github</h3>
+
+<p align="center">
+  <a href="https://github.com/guuzenn?tab=followers">
+    <img src="https://img.shields.io/github/followers/guuzenn?style=for-the-badge&amp;logo=github&amp;label=followers&amp;labelColor=1e1e2e&amp;color=89b4fa" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/guuzenn?tab=repositories">
+    <img src="https://img.shields.io/github/stars/guuzenn?style=for-the-badge&amp;logo=github&amp;label=total%20stars&amp;labelColor=1e1e2e&amp;color=f9e2af" alt="Total stars across my GitHub repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/guuzenn?tab=repositories">explore my repositories</a>
+</p>
+
+<br>
 <p align="center">
   <sub>☕ probably coding somewhere · 🐇</sub>
 </p>
